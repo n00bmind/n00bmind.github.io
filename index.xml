@@ -2,28 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>n00bmind&#39;s Portfolio</title>
-    <link>portfolio.n00bmind.me/</link>
+    <link>https://portfolio.n00bmind.me/</link>
     <description>Recent content on n00bmind&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="portfolio.n00bmind.me/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://portfolio.n00bmind.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience</title>
-      <link>portfolio.n00bmind.me/experience/</link>
+      <link>https://portfolio.n00bmind.me/experience/</link>
       <pubDate>Sat, 20 Feb 2021 08:28:33 +0000</pubDate>
       
-      <guid>portfolio.n00bmind.me/experience/</guid>
+      <guid>https://portfolio.n00bmind.me/experience/</guid>
       <description>Some of my professional experience
-Engine programmer @ Glowmade Oct 2019 - now Worked on new unnanounced IPs
-Working on a lot of engine features for their custom technology including all manner of finicky stuff like memory managment, a prefab subsystem, a lot of editor tools
-</description>
+Engine programmer @ Glowmade Nov 2019 - present Worked on new unnanounced titles
+Working in a small studio creating new features for their proprietary engine, both low level and user level, including &amp;ldquo;tyding up&amp;rdquo; the memory usage across the entire engine and game and adding runtime statistics, creating a prefab subsystem from scratch for use with their entity system, a few user-level editor tools, some improvements in the content packaging and general resource system, working on portability across platforms, integrating external profiling tools, etc.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>portfolio.n00bmind.me/about/</link>
+      <link>https://portfolio.n00bmind.me/about/</link>
       <pubDate>Fri, 19 Feb 2021 18:21:28 +0000</pubDate>
       
-      <guid>portfolio.n00bmind.me/about/</guid>
+      <guid>https://portfolio.n00bmind.me/about/</guid>
       <description>Welcome to my portfolio!</description>
     </item>
     

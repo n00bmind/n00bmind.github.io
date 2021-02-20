@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on n00bmind&#39;s Portfolio</title>
-    <link>portfolio.n00bmind.me/tags/</link>
+    <link>https://portfolio.n00bmind.me/tags/</link>
     <description>Recent content in Tags on n00bmind&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="portfolio.n00bmind.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://portfolio.n00bmind.me/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

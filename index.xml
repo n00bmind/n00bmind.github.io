@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>n00bmind&#39;s Portfolio</title>
-    <link>https://n00bmind.github.io/</link>
+    <link>portfolio.n00bmind.me/</link>
     <description>Recent content on n00bmind&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://n00bmind.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="portfolio.n00bmind.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience</title>
-      <link>https://n00bmind.github.io/experience/</link>
+      <link>portfolio.n00bmind.me/experience/</link>
       <pubDate>Sat, 20 Feb 2021 08:28:33 +0000</pubDate>
       
-      <guid>https://n00bmind.github.io/experience/</guid>
+      <guid>portfolio.n00bmind.me/experience/</guid>
       <description>Some of my professional experience
 Engine programmer @ Glowmade Oct 2019 - now Worked on new unnanounced IPs
 Working on a lot of engine features for their custom technology including all manner of finicky stuff like memory managment, a prefab subsystem, a lot of editor tools
@@ -20,10 +20,10 @@ Working on a lot of engine features for their custom technology including all ma
     
     <item>
       <title>About</title>
-      <link>https://n00bmind.github.io/about/</link>
+      <link>portfolio.n00bmind.me/about/</link>
       <pubDate>Fri, 19 Feb 2021 18:21:28 +0000</pubDate>
       
-      <guid>https://n00bmind.github.io/about/</guid>
+      <guid>portfolio.n00bmind.me/about/</guid>
       <description>Welcome to my portfolio!</description>
     </item>
     

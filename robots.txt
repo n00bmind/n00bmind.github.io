@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://portfolio.n00bmind.me/sitemap.xml

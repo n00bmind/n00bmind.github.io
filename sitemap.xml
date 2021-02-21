@@ -3,18 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://portfolio.n00bmind.me/projects/</loc>
-    <lastmod>2021-02-21T00:09:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.n00bmind.me/experience/</loc>
-    <lastmod>2021-02-20T08:28:33+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://portfolio.n00bmind.me/about/</loc>
-    <lastmod>2021-02-19T18:21:28+00:00</lastmod>
   </url>
   
   <url>
@@ -23,6 +12,14 @@
   
   <url>
     <loc>https://portfolio.n00bmind.me/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.n00bmind.me/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.n00bmind.me/experience/</loc>
   </url>
   
   <url>

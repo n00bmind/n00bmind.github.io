@@ -13,8 +13,7 @@
       
       <guid>https://portfolio.n00bmind.me/about/</guid>
       <description>Welcome!
-I&amp;rsquo;m Oscar Peñas. I was born a loong time ago somewhere in the south coast of Spain. I&amp;rsquo;ve been interested in computers almost since I can remember, ever since I got my amazing 8086 for my birthday I felt so very curious about how it did what it did.
-However it was when I first discovered the demoscene, in the mid 90s, that I really was hooked forever.</description>
+I&amp;rsquo;m Oscar Peñas. I was born a loong time ago somewhere in the south coast of Spain. I&amp;rsquo;ve been interested in computers almost since I can remember, ever since I got my amazing 8086 for my 9th birthday I felt so incredibly curious about how it did what it did. At first it was mostly just playing games and tinkering with MS-DOS, then one day I started learning some QBasic and a whole world opened before my eyes.</description>
     </item>
     
     <item>
@@ -32,8 +31,8 @@ However it was when I first discovered the demoscene, in the mid 90s, that I rea
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://portfolio.n00bmind.me/experience/</guid>
-      <description>Engine programmer @ Glowmade Nov 2019 - present Worked on new unnanounced titles
-Working in a small studio creating new features for their proprietary engine, both low level and user level, including &amp;ldquo;tyding up&amp;rdquo; the memory usage across the entire engine and game and adding runtime statistics, creating a prefab subsystem from scratch for use with their entity system, a few user-level editor tools, some improvements in the content packaging and general resource system, working on portability across platforms, integrating external profiling tools, etc.</description>
+      <description>Engine programmer @ Glowmade 2023 - present (as Principal engine programmer) Nov 2019 - 2023 Titles: Rustheart (cancelled), Unnanounced
+Working in a small-ish studio implementing many new features for their proprietary engine, both low level and user level, including: &amp;ldquo;tyding up&amp;rdquo; and improving the various memory subsystems across the entire engine and game and adding runtime memory statistics and tooling, many low-level threading improvements, creating a prefab subsystem from scratch for use by content creators together with the entity system, a few user-level editor tools, some improvements in the content packaging and general resource system, working on a generic platform layer for portability across platforms, integrating external profiling tools, continued performance investigations etc etc.</description>
     </item>
     
   </channel>
